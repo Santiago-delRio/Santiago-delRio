@@ -1,38 +1,41 @@
-## Hola 👋, soy Santiago!
+## Hello! 👋
 
-Resolución de problemas, autodidacta y apasionado de la tecnología. Siempre en busca de aprender cosas nuevas y crecer en el ámbito laboral. 
+My name is Santiago, I'm from Argentina and I'm a Frontend Developer.
+
+Problem solving, self-taught, and passionate about technology. Always looking to learn new things and grow as a developer. 
 
 <!-------------->
 
-## Habilidades
+## Skills
 ### Frontend
 * HTML, CSS / SASS, Javascript, React, Next.js
 
 ### Backend
 * Node.js, MySQL
 
-### Diseño
+### Design
 * Figma
 
-### Control de versiones
+### Version control
 * Github
 
 <!-------------->
 
-## Mis últimos proyectos
-Página para una parroquia
+## My latest projects
+
+### Parish website
 
 🔗[Demo](https://parroquia.vercel.app/)
-🔗[Código](https://github.com/Santiago-delRio/Parroquia-Frontend)
+🔗[Source code](https://github.com/Santiago-delRio/Parroquia-Frontend)
 
-Página para un canal de televisión
+### TV channel website
 
 🔗[Demo](http://canal-de-television.vercel.app/)
-🔗[Código](https://github.com/Santiago-delRio/veoteveFrontend)
+🔗[Source code](https://github.com/Santiago-delRio/veoteveFrontend)
 
 <!-------------->
 
-## Contacto
+## Contact me
 
 [LinkedIn](https://www.linkedin.com/in/santiago-del-r%C3%ADo/)
 
