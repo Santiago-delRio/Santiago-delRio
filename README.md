@@ -8,7 +8,7 @@ Problem solving, self-taught, and passionate about technology. Always looking to
 
 ## Skills
 ### Frontend
-* HTML, CSS / SASS, Javascript, React, Next.js
+* HTML, CSS / SASS / Tailwind, Javascript, React, Next.js
 
 ### Backend
 * Node.js, MySQL
