@@ -4,6 +4,8 @@ My name is Santiago, I'm from Argentina and I'm a Frontend Developer.
 
 Problem solving, self-taught, and passionate about technology. Always looking to learn new things and grow as a developer. 
 
+🔗[My portfolio](https://santiagodelrio.vercel.app/)
+
 <!-------------->
 
 ## Skills
